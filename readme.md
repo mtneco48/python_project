@@ -1,6 +1,7 @@
 # Python_Project for Intefacing with Raspberry PI
 
 ## How to install the app
+This is just a test on how to use Git and gitHub, app is not real!
 
 To use this app you don't need to install it; just download it and you can run it!
 
